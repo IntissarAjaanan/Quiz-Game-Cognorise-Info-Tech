@@ -1,0 +1,1928 @@
+[
+    {
+        "question_id": 1,
+        "question_label": "What does HTML stand for?",
+        "question_answers": [
+            {"Hyper Text Markup Language": true},
+            {"Hyperlinks Text Marking Language": false},
+            {"Home Tool Markup Language": false},
+            {"Hyperlinking Text Management Language": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 2,
+        "question_label": "Which of the following is a JavaScript framework?",
+        "question_answers": [
+            {"Django": false},
+            {"Flask": false},
+            {"React": true},
+            {"Laravel": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 3,
+        "question_label": "Which language is primarily used for styling web pages?",
+        "question_answers": [
+            {"HTML": false},
+            {"JavaScript": false},
+            {"CSS": true},
+            {"Python": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 4,
+        "question_label": "What is the correct syntax for referring to an external script called 'script.js'?",
+        "question_answers": [
+            {"<script src='script.js'>": true},
+            {"<script href='script.js'>": false},
+            {"<script link='script.js'>": false},
+            {"<script ref='script.js'>": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 5,
+        "question_label": "Which method is used to create an object in JavaScript?",
+        "question_answers": [
+            {"new Object()": true},
+            {"create Object()": false},
+            {"Object.new()": false},
+            {"Object.create()": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 6,
+        "question_label": "What does CSS stand for?",
+        "question_answers": [
+            {"Creative Style Sheets": false},
+            {"Computer Style Sheets": false},
+            {"Cascading Style Sheets": true},
+            {"Colorful Style Sheets": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 7,
+        "question_label": "Which tag is used to define a hyperlink in HTML?",
+        "question_answers": [
+            {"<link>": false},
+            {"<a>": true},
+            {"<href>": false},
+            {"<hyper>": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 8,
+        "question_label": "Which of the following is a JavaScript data type?",
+        "question_answers": [
+            {"String": true},
+            {"Number": true},
+            {"Boolean": true},
+            {"All of the above": true}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 9,
+        "question_label": "What is the purpose of the <head> element in HTML?",
+        "question_answers": [
+            {"To contain metadata and links to scripts/styles": true},
+            {"To define the main content of the document": false},
+            {"To display the page title in the browser tab": false},
+            {"To define the page footer": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 10,
+        "question_label": "Which JavaScript function is used to parse a string to an integer?",
+        "question_answers": [
+            {"parseInteger()": false},
+            {"parseInt()": true},
+            {"intParse()": false},
+            {"toInteger()": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 11,
+        "question_label": "Which of the following is a Python framework?",
+        "question_answers": [
+            {"Angular": false},
+            {"Ruby on Rails": false},
+            {"Flask": true},
+            {"ASP.NET": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 12,
+        "question_label": "Which tag is used to define an image in HTML?",
+        "question_answers": [
+            {"<img>": true},
+            {"<image>": false},
+            {"<pic>": false},
+            {"<src>": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 13,
+        "question_label": "Which of the following is a backend language?",
+        "question_answers": [
+            {"HTML": false},
+            {"CSS": false},
+            {"JavaScript": false},
+            {"Python": true}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 14,
+        "question_label": "Which method is used to add an element to the end of an array in JavaScript?",
+        "question_answers": [
+            {"add()": false},
+            {"append()": false},
+            {"push()": true},
+            {"insert()": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 15,
+        "question_label": "Which of the following is not a primitive data type in JavaScript?",
+        "question_answers": [
+            {"String": false},
+            {"Number": false},
+            {"Boolean": false},
+            {"Object": true}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 16,
+        "question_label": "Which tag is used for creating a table in HTML?",
+        "question_answers": [
+            {"<tr>": false},
+            {"<td>": false},
+            {"<table>": true},
+            {"<tab>": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 17,
+        "question_label": "Which of the following is a Python data type?",
+        "question_answers": [
+            {"List": true},
+            {"Dictionary": true},
+            {"Tuple": true},
+            {"All of the above": true}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 18,
+        "question_label": "Which HTML element is used for the largest heading?",
+        "question_answers": [
+            {"<h1>": true},
+            {"<h2>": false},
+            {"<h3>": false},
+            {"<h6>": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 19,
+        "question_label": "Which of the following is a JavaScript framework/library?",
+        "question_answers": [
+            {"Vue.js": true},
+            {"Laravel": false},
+            {"Flask": false},
+            {"Spring": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 20,
+        "question_label": "Which of the following is not a relational database?",
+        "question_answers": [
+            {"Oracle": false},
+            {"MySQL": false},
+            {"MongoDB": true},
+            {"PostgreSQL": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 21,
+        "question_label": "Which method is used to remove whitespace from the beginning and end of a string in JavaScript?",
+        "question_answers": [
+            {"trim()": true},
+            {"strip()": false},
+            {"cut()": false},
+            {"remove()": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 22,
+        "question_label": "Which HTML attribute is used to specify the path to an external CSS file?",
+        "question_answers": [
+            {"src": false},
+            {"href": true},
+            {"link": false},
+            {"rel": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 23,
+        "question_label": "Which Python keyword is used to start a function?",
+        "question_answers": [
+            {"function": false},
+            {"def": true},
+            {"func": false},
+            {"lambda": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 24,
+        "question_label": "Which JavaScript function is used to parse a string to a floating-point number?",
+        "question_answers": [
+            {"parseFloat()": true},
+            {"parseDouble()": false},
+            {"toFloat()": false},
+            {"floatParse()": false}
+        ],
+        "question_category": "Coding"
+    },
+    {
+        "question_id": 25,
+        "question_label": "What is the capital of France?",
+        "question_answers": [
+            {"Rome": false},
+            {"Madrid": false},
+            {"Berlin": false},
+            {"Paris": true}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 26,
+        "question_label": "Which planet is known as the Red Planet?",
+        "question_answers": [
+            {"Venus": false},
+            {"Mars": true},
+            {"Jupiter": false},
+            {"Saturn": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 27,
+        "question_label": "Who wrote 'Romeo and Juliet'?",
+        "question_answers": [
+            {"Charles Dickens": false},
+            {"Mark Twain": false},
+            {"William Shakespeare": true},
+            {"Jane Austen": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 28,
+        "question_label": "What is the largest ocean on Earth?",
+        "question_answers": [
+            {"Atlantic Ocean": false},
+            {"Indian Ocean": false},
+            {"Arctic Ocean": false},
+            {"Pacific Ocean": true}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 29,
+        "question_label": "Which element has the chemical symbol O?",
+        "question_answers": [
+            {"Oxygen": true},
+            {"Gold": false},
+            {"Helium": false},
+            {"Silver": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 30,
+        "question_label": "What is the hardest natural substance on Earth?",
+        "question_answers": [
+            {"Gold": false},
+            {"Diamond": true},
+            {"Iron": false},
+            {"Quartz": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 31,
+        "question_label": "In which year did the Titanic sink?",
+        "question_answers": [
+            {"1910": false},
+            {"1912": true},
+            {"1914": false},
+            {"1916": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 32,
+        "question_label": "Which country is known as the Land of the Rising Sun?",
+        "question_answers": [
+            {"China": false},
+            {"Japan": true},
+            {"Thailand": false},
+            {"South Korea": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 33,
+        "question_label": "Which organ in the human body is responsible for pumping blood?",
+        "question_answers": [
+            {"Brain": false},
+            {"Lungs": false},
+            {"Heart": true},
+            {"Kidney": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 34,
+        "question_label": "What is the capital city of Australia?",
+        "question_answers": [
+            {"Sydney": false},
+            {"Melbourne": false},
+            {"Canberra": true},
+            {"Brisbane": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 35,
+        "question_label": "Who painted the Mona Lisa?",
+        "question_answers": [
+            {"Pablo Picasso": false},
+            {"Leonardo da Vinci": true},
+            {"Vincent van Gogh": false},
+            {"Michelangelo": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 36,
+        "question_label": "Which country hosted the 2016 Summer Olympics?",
+        "question_answers": [
+            {"China": false},
+            {"Brazil": true},
+            {"Russia": false},
+            {"USA": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 37,
+        "question_label": "What is the currency of Japan?",
+        "question_answers": [
+            {"Dollar": false},
+            {"Euro": false},
+            {"Yen": true},
+            {"Peso": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 38,
+        "question_label": "Which is the smallest planet in our solar system?",
+        "question_answers": [
+            {"Mars": false},
+            {"Venus": false},
+            {"Mercury": true},
+            {"Pluto": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 39,
+        "question_label": "Who is known as the Father of Computers?",
+        "question_answers": [
+            {"Alan Turing": false},
+            {"Charles Babbage": true},
+            {"Thomas Edison": false},
+            {"Isaac Newton": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 40,
+        "question_label": "Which continent is the Sahara Desert located in?",
+        "question_answers": [
+            {"Asia": false},
+            {"Africa": true},
+            {"Australia": false},
+            {"South America": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 41,
+        "question_label": "What is the chemical formula for water?",
+        "question_answers": [
+            {"CO2": false},
+            {"H2O": true},
+            {"O2": false},
+            {"NaCl": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 42,
+        "question_label": "Which country is known as the Land of Maple Leaf?",
+        "question_answers": [
+            {"Sweden": false},
+            {"Canada": true},
+            {"Finland": false},
+            {"Norway": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 43,
+        "question_label": "Which animal is known as the King of the Jungle?",
+        "question_answers": [
+            {"Tiger": false},
+            {"Elephant": false},
+            {"Lion": true},
+            {"Bear": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 44,
+        "question_label": "Which planet is closest to the Sun?",
+        "question_answers": [
+            {"Earth": false},
+            {"Venus": false},
+            {"Mercury": true},
+            {"Mars": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 45,
+        "question_label": "Which river is the longest in the world?",
+        "question_answers": [
+            {"Amazon": false},
+            {"Nile": true},
+            {"Mississippi": false},
+            {"Yangtze": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 46,
+        "question_label": "Which language is the most spoken worldwide?",
+        "question_answers": [
+            {"Spanish": false},
+            {"English": false},
+            {"Mandarin": true},
+            {"Hindi": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 47,
+        "question_label": "Who invented the light bulb?",
+        "question_answers": [
+            {"Nikola Tesla": false},
+            {"Thomas Edison": true},
+            {"Alexander Graham Bell": false},
+            {"Benjamin Franklin": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 48,
+        "question_label": "What is the tallest mountain in the world?",
+        "question_answers": [
+            {"K2": false},
+            {"Mount Everest": true},
+            {"Kangchenjunga": false},
+            {"Lhotse": false}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 49,
+        "question_label": "Which country is the largest by land area?",
+        "question_answers": [
+            {"Canada": false},
+            {"USA": false},
+            {"China": false},
+            {"Russia": true}
+        ],
+        "question_category": "General Knowledge"
+    },
+    {
+        "question_id": 50,
+        "question_label": "Which country is home to the Eiffel Tower?",
+        "question_answers": [
+            {"Italy": false},
+            {"Spain": false},
+            {"France": true},
+            {"Germany": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 51,
+        "question_label": "What is the capital city of Japan?",
+        "question_answers": [
+            {"Beijing": false},
+            {"Seoul": false},
+            {"Tokyo": true},
+            {"Bangkok": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 52,
+        "question_label": "Which of the following is a famous landmark in India?",
+        "question_answers": [
+            {"Great Wall": false},
+            {"Taj Mahal": true},
+            {"Statue of Liberty": false},
+            {"Eiffel Tower": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 53,
+        "question_label": "Which country is known for its canals and gondolas?",
+        "question_answers": [
+            {"Greece": false},
+            {"Italy": true},
+            {"Portugal": false},
+            {"Netherlands": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 54,
+        "question_label": "Which city is known as the Big Apple?",
+        "question_answers": [
+            {"Los Angeles": false},
+            {"Chicago": false},
+            {"New York": true},
+            {"San Francisco": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 55,
+        "question_label": "Which desert is the largest in the world?",
+        "question_answers": [
+            {"Sahara": true},
+            {"Gobi": false},
+            {"Mojave": false},
+            {"Kalahari": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 56,
+        "question_label": "Where is the Great Barrier Reef located?",
+        "question_answers": [
+            {"Australia": true},
+            {"Brazil": false},
+            {"South Africa": false},
+            {"Indonesia": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 57,
+        "question_label": "Which city is famous for the Golden Gate Bridge?",
+        "question_answers": [
+            {"Los Angeles": false},
+            {"Seattle": false},
+            {"San Francisco": true},
+            {"Miami": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 58,
+        "question_label": "Which country has the most UNESCO World Heritage Sites?",
+        "question_answers": [
+            {"China": true},
+            {"India": false},
+            {"Italy": false},
+            {"France": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 59,
+        "question_label": "Which city is known for its Carnival, a world-famous festival?",
+        "question_answers": [
+            {"Rio de Janeiro": true},
+            {"Venice": false},
+            {"New Orleans": false},
+            {"Nice": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 60,
+        "question_label": "Which country is famous for the pyramids of Giza?",
+        "question_answers": [
+            {"Mexico": false},
+            {"Greece": false},
+            {"Egypt": true},
+            {"Jordan": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 61,
+        "question_label": "Which of the following is a famous landmark in the USA?",
+        "question_answers": [
+            {"Big Ben": false},
+            {"Colosseum": false},
+            {"Statue of Liberty": true},
+            {"Eiffel Tower": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 62,
+        "question_label": "Which city is known as the City of Love?",
+        "question_answers": [
+            {"Venice": false},
+            {"Paris": true},
+            {"Rome": false},
+            {"Vienna": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 63,
+        "question_label": "Which country is famous for its fjords?",
+        "question_answers": [
+            {"Sweden": false},
+            {"Norway": true},
+            {"Denmark": false},
+            {"Iceland": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 64,
+        "question_label": "Where is the famous Machu Picchu located?",
+        "question_answers": [
+            {"Mexico": false},
+            {"Peru": true},
+            {"Brazil": false},
+            {"Chile": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 65,
+        "question_label": "Which European city is known for its historical architecture and canals?",
+        "question_answers": [
+            {"Paris": false},
+            {"Amsterdam": true},
+            {"Barcelona": false},
+            {"Vienna": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 66,
+        "question_label": "Which country is known for its beautiful beaches and islands?",
+        "question_answers": [
+            {"Thailand": true},
+            {"India": false},
+            {"Argentina": false},
+            {"Turkey": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 67,
+        "question_label": "Which mountain range separates Europe and Asia?",
+        "question_answers": [
+            {"Alps": false},
+            {"Andes": false},
+            {"Ural": true},
+            {"Rockies": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 68,
+        "question_label": "Which city is home to the Colosseum?",
+        "question_answers": [
+            {"Athens": false},
+            {"Rome": true},
+            {"Istanbul": false},
+            {"Paris": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 69,
+        "question_label": "Which city is known as the Venice of the North?",
+        "question_answers": [
+            {"Bruges": false},
+            {"Amsterdam": true},
+            {"Copenhagen": false},
+            {"Stockholm": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 70,
+        "question_label": "Which country is famous for its tulips and windmills?",
+        "question_answers": [
+            {"Belgium": false},
+            {"Netherlands": true},
+            {"Germany": false},
+            {"France": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 71,
+        "question_label": "Which city is famous for its historic Acropolis?",
+        "question_answers": [
+            {"Rome": false},
+            {"Athens": true},
+            {"Istanbul": false},
+            {"Cairo": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 72,
+        "question_label": "Which city is known for its cherry blossoms in spring?",
+        "question_answers": [
+            {"Seoul": false},
+            {"Kyoto": true},
+            {"Beijing": false},
+            {"Bangkok": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 73,
+        "question_label": "Which island is famous for its volcanic landscapes and geysers?",
+        "question_answers": [
+            {"Hawaii": false},
+            {"Iceland": true},
+            {"Fiji": false},
+            {"Malta": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 74,
+        "question_label": "Which country is home to the Leaning Tower of Pisa?",
+        "question_answers": [
+            {"Spain": false},
+            {"Greece": false},
+            {"Italy": true},
+            {"Portugal": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 75,
+        "question_label": "Which country is famous for the Great Wall?",
+        "question_answers": [
+            {"Japan": false},
+            {"China": true},
+            {"Korea": false},
+            {"India": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 76,
+        "question_label": "Which city is known for its space center?",
+        "question_answers": [
+            {"Orlando": false},
+            {"Houston": true},
+            {"Miami": false},
+            {"Los Angeles": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 77,
+        "question_label": "Which country is known for the Outback?",
+        "question_answers": [
+            {"New Zealand": false},
+            {"Australia": true},
+            {"Canada": false},
+            {"South Africa": false}
+        ],
+        "question_category": "Travel"
+    },
+    {
+        "question_id": 79,
+        "question_label": "Which country has won the most FIFA World Cups?",
+        "question_answers": [
+            {"Brazil": true},
+            {"Germany": false},
+            {"Argentina": false},
+            {"Italy": false}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 80,
+        "question_label": "Which player has won the most Grand Slam titles in tennis?",
+        "question_answers": [
+            {"Roger Federer": true},
+            {"Rafael Nadal": false},
+            {"Novak Djokovic": false},
+            {"Pete Sampras": false}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 81,
+        "question_label": "Which country hosted the 2012 Summer Olympics?",
+        "question_answers": [
+            {"Brazil": false},
+            {"China": false},
+            {"United Kingdom": true},
+            {"Russia": false}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 82,
+        "question_label": "Which sport is known as the 'king of sports'?",
+        "question_answers": [
+            {"Cricket": false},
+            {"Basketball": false},
+            {"Soccer (Football)": true},
+            {"Tennis": false}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 83,
+        "question_label": "Who holds the record for the most points scored in an NBA game?",
+        "question_answers": [
+            {"Michael Jordan": false},
+            {"LeBron James": false},
+            {"Wilt Chamberlain": true},
+            {"Kobe Bryant": false}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 84,
+        "question_label": "Which country won the first FIFA World Cup?",
+        "question_answers": [
+            {"Brazil": false},
+            {"Germany": false},
+            {"Argentina": false},
+            {"Uruguay": true}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 85,
+        "question_label": "Which golfer has won the most major championships?",
+        "question_answers": [
+            {"Tiger Woods": false},
+            {"Jack Nicklaus": true},
+            {"Arnold Palmer": false},
+            {"Phil Mickelson": false}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 86,
+        "question_label": "Which team has won the most Super Bowls?",
+        "question_answers": [
+            {"New England Patriots": true},
+            {"Dallas Cowboys": false},
+            {"San Francisco 49ers": false},
+            {"Pittsburgh Steelers": true}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 87,
+        "question_label": "Which boxer was known as 'The Greatest'?",
+        "question_answers": [
+            {"Mike Tyson": false},
+            {"Floyd Mayweather": false},
+            {"Muhammad Ali": true},
+            {"Joe Frazier": false}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 88,
+        "question_label": "Which country has won the most Olympic gold medals in ice hockey?",
+        "question_answers": [
+            {"Canada": true},
+            {"Russia": true},
+            {"USA": false},
+            {"Sweden": false}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 89,
+        "question_label": "Which player holds the record for the most home runs in MLB history?",
+        "question_answers": [
+            {"Babe Ruth": false},
+            {"Barry Bonds": true},
+            {"Hank Aaron": false},
+            {"Alex Rodriguez": false}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 90,
+        "question_label": "Which country has won the most Rugby World Cups?",
+        "question_answers": [
+            {"New Zealand": true},
+            {"Australia": false},
+            {"South Africa": true},
+            {"England": false}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 91,
+        "question_label": "Which city hosted the 2008 Summer Olympics?",
+        "question_answers": [
+            {"Beijing": true},
+            {"London": false},
+            {"Athens": false},
+            {"Sydney": false}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 92,
+        "question_label": "Which sport is played at Wimbledon?",
+        "question_answers": [
+            {"Cricket": false},
+            {"Soccer": false},
+            {"Tennis": true},
+            {"Rugby": false}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 93,
+        "question_label": "Which country has won the most Tour de France titles?",
+        "question_answers": [
+            {"USA": true},
+            {"France": false},
+            {"Belgium": false},
+            {"Spain": false}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 94,
+        "question_label": "Which team won the 2018 FIFA World Cup?",
+        "question_answers": [
+            {"Germany": false},
+            {"Brazil": false},
+            {"France": true},
+            {"Argentina": false}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 95,
+        "question_label": "Which country has won the most Olympic medals overall?",
+        "question_answers": [
+            {"China": false},
+            {"USA": true},
+            {"Russia": false},
+            {"Germany": false}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 96,
+        "question_label": "Which country has won the most Formula 1 Constructors' Championships?",
+        "question_answers": [
+            {"Ferrari": true},
+            {"McLaren": false},
+            {"Mercedes": false},
+            {"Red Bull Racing": false}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 97,
+        "question_label": "Which city hosted the first modern Olympic Games in 1896?",
+        "question_answers": [
+            {"Athens": true},
+            {"Paris": false},
+            {"London": false},
+            {"Rome": false}
+        ],
+        "question_category": "Sport"
+    },
+    {
+        "question_id": 98,
+        "question_label": "Which country has won the most FIFA Women's World Cups?",
+        "question_answers": [
+            {"USA": true},
+            {"Germany": true},
+            {"Norway": false},
+            {"Japan": false}
+        ],
+        "question_category": "Sport"
+    },
+    
+    {
+        "question_id": 99,
+        "question_label": "Which ancient civilization built the pyramids?",
+        "question_answers": [
+            {"Mesopotamians": false},
+            {"Egyptians": true},
+            {"Romans": false},
+            {"Greeks": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 100,
+        "question_label": "Which language is the most widely spoken in the world?",
+        "question_answers": [
+            {"English": false},
+            {"Mandarin Chinese": true},
+            {"Spanish": false},
+            {"Hindi": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 101,
+        "question_label": "Which city is known as the birthplace of jazz music?",
+        "question_answers": [
+            {"Chicago": false},
+            {"New Orleans": true},
+            {"New York": false},
+            {"Los Angeles": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 102,
+        "question_label": "Which country is known for the traditional dance called the tango?",
+        "question_answers": [
+            {"Brazil": false},
+            {"Argentina": true},
+            {"Cuba": false},
+            {"Spain": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 103,
+        "question_label": "Which artist painted the Sistine Chapel ceiling?",
+        "question_answers": [
+            {"Leonardo da Vinci": false},
+            {"Michelangelo": true},
+            {"Raphael": false},
+            {"Donatello": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 104,
+        "question_label": "Which country is known for the samurai warriors?",
+        "question_answers": [
+            {"China": false},
+            {"Japan": true},
+            {"South Korea": false},
+            {"Vietnam": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 105,
+        "question_label": "Which classical composer is known for his 'Fifth Symphony'?",
+        "question_answers": [
+            {"Mozart": false},
+            {"Beethoven": true},
+            {"Bach": false},
+            {"Tchaikovsky": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 106,
+        "question_label": "Which country is famous for its annual carnival in Rio de Janeiro?",
+        "question_answers": [
+            {"Mexico": false},
+            {"Brazil": true},
+            {"Spain": false},
+            {"Portugal": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 107,
+        "question_label": "Which philosopher is known for the quote 'I think, therefore I am'?",
+        "question_answers": [
+            {"Aristotle": false},
+            {"Descartes": true},
+            {"Plato": false},
+            {"Socrates": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 108,
+        "question_label": "Which book is considered the first modern novel?",
+        "question_answers": [
+            {"Don Quixote": true},
+            {"The Odyssey": false},
+            {"The Divine Comedy": false},
+            {"The Canterbury Tales": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 109,
+        "question_label": "Which country is known for the cultural heritage of Flamenco music and dance?",
+        "question_answers": [
+            {"Portugal": false},
+            {"Spain": true},
+            {"Italy": false},
+            {"Mexico": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 110,
+        "question_label": "Which festival is celebrated as the 'Festival of Lights' in India?",
+        "question_answers": [
+            {"Holi": false},
+            {"Diwali": true},
+            {"Eid": false},
+            {"Christmas": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 111,
+        "question_label": "Which ancient civilization is credited with creating the first written legal code, known as Hammurabi's Code?",
+        "question_answers": [
+            {"Sumerians": false},
+            {"Babylonians": true},
+            {"Assyrians": false},
+            {"Persians": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 112,
+        "question_label": "Which famous playwright wrote 'Hamlet'?",
+        "question_answers": [
+            {"Christopher Marlowe": false},
+            {"William Shakespeare": true},
+            {"Ben Jonson": false},
+            {"John Milton": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 113,
+        "question_label": "Which country is known for its traditional tea ceremony, often associated with Zen Buddhism?",
+        "question_answers": [
+            {"China": false},
+            {"Japan": true},
+            {"India": false},
+            {"South Korea": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 114,
+        "question_label": "Which Renaissance artist is known for the painting 'The Last Supper'?",
+        "question_answers": [
+            {"Raphael": false},
+            {"Leonardo da Vinci": true},
+            {"Donatello": false},
+            {"Michelangelo": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 115,
+        "question_label": "Which country is famous for the architectural style known as Gothic?",
+        "question_answers": [
+            {"Italy": false},
+            {"France": true},
+            {"Germany": false},
+            {"England": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 116,
+        "question_label": "Which famous cultural landmark is located in Paris, France?",
+        "question_answers": [
+            {"Big Ben": false},
+            {"Colosseum": false},
+            {"Eiffel Tower": true},
+            {"Statue of Liberty": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 117,
+        "question_label": "Which country is known for its ancient temples of Angkor Wat?",
+        "question_answers": [
+            {"Thailand": false},
+            {"Cambodia": true},
+            {"Vietnam": false},
+            {"Laos": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 118,
+        "question_label": "Which African country is famous for its Maasai culture?",
+        "question_answers": [
+            {"Nigeria": false},
+            {"Kenya": true},
+            {"South Africa": false},
+            {"Egypt": false}
+        ],
+        "question_category": "Culture"
+    },
+    {
+        "question_id": 119,
+        "question_label": "Which company developed the first smartphone?",
+        "question_answers": [
+            {"Apple": false},
+            {"IBM": true},
+            {"Microsoft": false},
+            {"Nokia": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 120,
+        "question_label": "What does the acronym 'HTML' stand for?",
+        "question_answers": [
+            {"HyperText Markup Language": true},
+            {"HighText Markup Language": false},
+            {"HyperText Media Language": false},
+            {"HighText Media Language": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 121,
+        "question_label": "Which programming language is known for its use in web development?",
+        "question_answers": [
+            {"Python": false},
+            {"JavaScript": true},
+            {"Java": false},
+            {"C++": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 122,
+        "question_label": "What is the name of the first computer virus?",
+        "question_answers": [
+            {"CIH": false},
+            {"Melissa": false},
+            {"Creeper": true},
+            {"ILOVEYOU": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 123,
+        "question_label": "What does 'URL' stand for?",
+        "question_answers": [
+            {"Uniform Resource Locator": true},
+            {"Universal Resource Locator": false},
+            {"Uniform Retrieval Locator": false},
+            {"Universal Retrieval Locator": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 124,
+        "question_label": "Which company is known for its search engine and the Android operating system?",
+        "question_answers": [
+            {"Apple": false},
+            {"Google": true},
+            {"Microsoft": false},
+            {"Yahoo": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 125,
+        "question_label": "Which programming language is known for its use in data science and machine learning?",
+        "question_answers": [
+            {"C#": false},
+            {"Python": true},
+            {"Ruby": false},
+            {"Swift": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 126,
+        "question_label": "Which technology is used to create virtual private networks (VPNs)?",
+        "question_answers": [
+            {"SSL": true},
+            {"HTTP": false},
+            {"FTP": false},
+            {"SMTP": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 127,
+        "question_label": "What does 'AI' stand for in technology?",
+        "question_answers": [
+            {"Artificial Intelligence": true},
+            {"Advanced Information": false},
+            {"Automated Integration": false},
+            {"Artificial Integration": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 128,
+        "question_label": "Which device is used to input text into a computer?",
+        "question_answers": [
+            {"Monitor": false},
+            {"Keyboard": true},
+            {"Printer": false},
+            {"Scanner": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 129,
+        "question_label": "What is the primary function of an operating system?",
+        "question_answers": [
+            {"Manage hardware and software resources": true},
+            {"Create and edit documents": false},
+            {"Run applications": false},
+            {"Store files": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 130,
+        "question_label": "Which programming language is known for its use in web development alongside JavaScript?",
+        "question_answers": [
+            {"Java": false},
+            {"PHP": true},
+            {"Ruby": false},
+            {"Swift": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 131,
+        "question_label": "What does 'HTTP' stand for?",
+        "question_answers": [
+            {"HyperText Transfer Protocol": true},
+            {"HighText Transfer Protocol": false},
+            {"HyperText Transmission Protocol": false},
+            {"HighText Transmission Protocol": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 132,
+        "question_label": "Which company is known for its Windows operating system?",
+        "question_answers": [
+            {"Apple": false},
+            {"Microsoft": true},
+            {"Google": false},
+            {"IBM": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 133,
+        "question_label": "Which data structure uses 'LIFO' (Last In First Out) principle?",
+        "question_answers": [
+            {"Queue": false},
+            {"Stack": true},
+            {"Array": false},
+            {"List": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 134,
+        "question_label": "What is the main purpose of a firewall in a network?",
+        "question_answers": [
+            {"Protect against unauthorized access": true},
+            {"Store data": false},
+            {"Transmit data": false},
+            {"Provide Wi-Fi": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 135,
+        "question_label": "Which technology is used to store data in the cloud?",
+        "question_answers": [
+            {"HDD": false},
+            {"SSD": false},
+            {"Cloud Storage": true},
+            {"USB Drive": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 136,
+        "question_label": "Which programming language is known for its use in mobile app development for iOS?",
+        "question_answers": [
+            {"Java": false},
+            {"Swift": true},
+            {"Kotlin": false},
+            {"C#": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 137,
+        "question_label": "What does 'URL' stand for?",
+        "question_answers": [
+            {"Uniform Resource Locator": true},
+            {"Universal Resource Locator": false},
+            {"Uniform Retrieval Locator": false},
+            {"Universal Retrieval Locator": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 138,
+        "question_label": "Which technology is used for creating web pages and web applications?",
+        "question_answers": [
+            {"JavaScript": true},
+            {"Python": false},
+            {"Java": false},
+            {"C++": false}
+        ],
+        "question_category": "Technology"
+    },
+    {
+        "question_id": 139,
+        "question_label": "What is the primary function of the heart?",
+        "question_answers": [
+            {"Pumping blood": true},
+            {"Digesting food": false},
+            {"Filtering toxins": false},
+            {"Regulating body temperature": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 140,
+        "question_label": "Which vitamin is primarily obtained from sunlight?",
+        "question_answers": [
+            {"Vitamin A": false},
+            {"Vitamin B12": false},
+            {"Vitamin C": false},
+            {"Vitamin D": true}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 141,
+        "question_label": "What is the medical term for high blood pressure?",
+        "question_answers": [
+            {"Hypertension": true},
+            {"Hypotension": false},
+            {"Hyperglycemia": false},
+            {"Hyperthermia": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 142,
+        "question_label": "Which organ is primarily responsible for detoxification in the body?",
+        "question_answers": [
+            {"Heart": false},
+            {"Liver": true},
+            {"Kidney": false},
+            {"Lungs": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 143,
+        "question_label": "Which nutrient is essential for building and repairing tissues?",
+        "question_answers": [
+            {"Carbohydrates": false},
+            {"Fats": false},
+            {"Proteins": true},
+            {"Vitamins": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 144,
+        "question_label": "What is the normal range for an adult's resting heart rate?",
+        "question_answers": [
+            {"40-60 beats per minute": false},
+            {"60-100 beats per minute": true},
+            {"100-140 beats per minute": false},
+            {"140-180 beats per minute": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 145,
+        "question_label": "Which disease is characterized by the body's inability to produce insulin?",
+        "question_answers": [
+            {"Diabetes Mellitus Type 1": true},
+            {"Hypertension": false},
+            {"Asthma": false},
+            {"Multiple Sclerosis": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 146,
+        "question_label": "What is the common term for the condition known as 'Influenza'?",
+        "question_answers": [
+            {"Cold": false},
+            {"Flu": true},
+            {"Allergy": false},
+            {"Headache": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 147,
+        "question_label": "Which vitamin is important for bone health and calcium absorption?",
+        "question_answers": [
+            {"Vitamin A": false},
+            {"Vitamin C": false},
+            {"Vitamin D": true},
+            {"Vitamin E": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 148,
+        "question_label": "What is the primary function of red blood cells?",
+        "question_answers": [
+            {"Transporting oxygen": true},
+            {"Clotting blood": false},
+            {"Fighting infections": false},
+            {"Removing waste": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 149,
+        "question_label": "Which condition is commonly known as 'heartburn'?",
+        "question_answers": [
+            {"Gastric ulcer": false},
+            {"GERD (Gastroesophageal Reflux Disease)": true},
+            {"Irritable bowel syndrome": false},
+            {"Peptic ulcer": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 150,
+        "question_label": "Which mineral is crucial for bone strength and density?",
+        "question_answers": [
+            {"Iron": false},
+            {"Calcium": true},
+            {"Potassium": false},
+            {"Magnesium": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 151,
+        "question_label": "What is the medical term for the common cold?",
+        "question_answers": [
+            {"Rhinovirus infection": true},
+            {"Influenza": false},
+            {"Sinusitis": false},
+            {"Pneumonia": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 152,
+        "question_label": "Which part of the brain is responsible for regulating balance and coordination?",
+        "question_answers": [
+            {"Cerebrum": false},
+            {"Cerebellum": true},
+            {"Brainstem": false},
+            {"Hypothalamus": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 153,
+        "question_label": "What is the term for a blood clot that travels to the lungs?",
+        "question_answers": [
+            {"Thrombosis": false},
+            {"Embolism": true},
+            {"Aneurysm": false},
+            {"Stroke": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 154,
+        "question_label": "Which disease is characterized by progressive muscle weakness and loss?",
+        "question_answers": [
+            {"Muscular Dystrophy": true},
+            {"Parkinson's Disease": false},
+            {"Alzheimer's Disease": false},
+            {"Multiple Sclerosis": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 155,
+        "question_label": "Which hormone is responsible for regulating blood sugar levels?",
+        "question_answers": [
+            {"Insulin": true},
+            {"Adrenaline": false},
+            {"Thyroxine": false},
+            {"Cortisol": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 156,
+        "question_label": "What is the medical term for the inflammation of the lining of the lungs?",
+        "question_answers": [
+            {"Bronchitis": false},
+            {"Pneumonia": false},
+            {"Pleural Effusion": true},
+            {"Pleurisy": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 157,
+        "question_label": "What is the recommended daily amount of water intake for an average adult?",
+        "question_answers": [
+            {"1 liter": false},
+            {"2 liters": true},
+            {"3 liters": false},
+            {"4 liters": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 158,
+        "question_label": "Which type of exercise is best for improving cardiovascular health?",
+        "question_answers": [
+            {"Weight lifting": false},
+            {"Running": true},
+            {"Yoga": false},
+            {"Stretching": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 159,
+        "question_label": "What is the primary function of the kidneys?",
+        "question_answers": [
+            {"Regulating blood pressure": false},
+            {"Filtering blood": true},
+            {"Producing hormones": false},
+            {"Digesting food": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 160,
+        "question_label": "What type of immunity is provided by vaccines?",
+        "question_answers": [
+            {"Innate immunity": false},
+            {"Acquired immunity": true},
+            {"Passive immunity": false},
+            {"Natural immunity": false}
+        ],
+        "question_category": "Health"
+    },
+    {
+        "question_id": 161,
+        "question_label": "What is the chemical symbol for gold?",
+        "question_answers": [
+            {"Au": true},
+            {"Ag": false},
+            {"Pb": false},
+            {"Fe": false}
+        ],
+        "question_category": "Science"
+    },
+    {
+        "question_id": 162,
+        "question_label": "What planet is known as the 'Red Planet'?",
+        "question_answers": [
+            {"Venus": false},
+            {"Mars": true},
+            {"Jupiter": false},
+            {"Saturn": false}
+        ],
+        "question_category": "Science"
+    },
+    {
+        "question_id": 163,
+        "question_label": "What is the powerhouse of the cell?",
+        "question_answers": [
+            {"Nucleus": false},
+            {"Mitochondria": true},
+            {"Ribosome": false},
+            {"Endoplasmic Reticulum": false}
+        ],
+        "question_category": "Science"
+    },
+    {
+        "question_id": 164,
+        "question_label": "Who is known as the father of modern physics?",
+        "question_answers": [
+            {"Isaac Newton": false},
+            {"Albert Einstein": true},
+            {"Galileo Galilei": false},
+            {"Niels Bohr": false}
+        ],
+        "question_category": "Science"
+    },
+    {
+        "question_id": 165,
+        "question_label": "What is the speed of light in a vacuum?",
+        "question_answers": [
+            {"300,000 km/s": true},
+            {"150,000 km/s": false},
+            {"450,000 km/s": false},
+            {"600,000 km/s": false}
+        ],
+        "question_category": "Science"
+    },
+    {
+        "question_id": 166,
+        "question_label": "What gas do plants use for photosynthesis?",
+        "question_answers": [
+            {"Oxygen": false},
+            {"Carbon Dioxide": true},
+            {"Nitrogen": false},
+            {"Hydrogen": false}
+        ],
+        "question_category": "Science"
+    },
+    {
+        "question_id": 167,
+        "question_label": "What is the most abundant gas in Earth's atmosphere?",
+        "question_answers": [
+            {"Oxygen": false},
+            {"Nitrogen": true},
+            {"Carbon Dioxide": false},
+            {"Argon": false}
+        ],
+        "question_category": "Science"
+    },
+    {
+        "question_id": 168,
+        "question_label": "Which planet is closest to the Sun?",
+        "question_answers": [
+            {"Earth": false},
+            {"Mercury": true},
+            {"Venus": false},
+            {"Mars": false}
+        ],
+        "question_category": "Science"
+    },
+    {
+        "question_id": 169,
+        "question_label": "What is the chemical formula for table salt?",
+        "question_answers": [
+            {"NaCl": true},
+            {"KCl": false},
+            {"CaCO3": false},
+            {"MgSO4": false}
+        ],
+        "question_category": "Science"
+    },
+    {
+        "question_id": 170,
+        "question_label": "What is the hardest natural substance on Earth?",
+        "question_answers": [
+            {"Diamond": true},
+            {"Ruby": false},
+            {"Sapphire": false},
+            {"Emerald": false}
+        ],
+        "question_category": "Science"
+    },
+    {
+        "question_id": 171,
+        "question_label": "What type of bond is formed when two atoms share electrons?",
+        "question_answers": [
+            {"Ionic Bond": false},
+            {"Covalent Bond": true},
+            {"Hydrogen Bond": false},
+            {"Metallic Bond": false}
+        ],
+        "question_category": "Science"
+    },
+    {
+        "question_id": 172,
+        "question_label": "Who proposed the theory of evolution by natural selection?",
+        "question_answers": [
+            {"Charles Darwin": true},
+            {"Gregor Mendel": false},
+            {"Louis Pasteur": false},
+            {"James Watson": false}
+        ],
+        "question_category": "Science"
+    },
+    {
+        "question_id": 173,
+        "question_label": "What is the chemical symbol for the element Oxygen?",
+        "question_answers": [
+            {"O": true},
+            {"Ox": false},
+            {"O2": false},
+            {"Oz": false}
+        ],
+        "question_category": "Science"
+    },
+    {
+        "question_id": 174,
+        "question_label": "What is the primary component of the Sun?",
+        "question_answers": [
+            {"Oxygen": false},
+            {"Hydrogen": true},
+            {"Carbon": false},
+            {"Nitrogen": false}
+        ],
+        "question_category": "Science"
+    },
+    {
+        "question_id": 175,
+        "question_label": "What is the largest planet in our solar system?",
+        "question_answers": [
+            {"Earth": false},
+            {"Saturn": false},
+            {"Jupiter": true},
+            {"Uranus": false}
+        ],
+        "question_category": "Science"
+    },
+    {
+        "question_id": 176,
+        "question_label": "What is the process by which plants make their own food?",
+        "question_answers": [
+            {"Respiration": false},
+            {"Photosynthesis": true},
+            {"Digestion": false},
+            {"Fermentation": false}
+        ],
+        "question_category": "Science"
+    }
+]
